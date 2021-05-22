@@ -11885,11 +11885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mayara Luiza\\Desktop\\PrimeiroProjeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
+      "projectUniqueName": "C:\\Users\\Mayara Luiza\\Desktop\\ASPNETCOREMVCLojaVirtual\\Seção 02\\PrimeiroProjeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
       "projectName": "ProjetoZero",
-      "projectPath": "C:\\Users\\Mayara Luiza\\Desktop\\PrimeiroProjeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
+      "projectPath": "C:\\Users\\Mayara Luiza\\Desktop\\ASPNETCOREMVCLojaVirtual\\Seção 02\\PrimeiroProjeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
       "packagesPath": "C:\\Users\\Mayara Luiza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mayara Luiza\\Desktop\\PrimeiroProjeto\\ProjetoZero\\ProjetoZero\\obj\\",
+      "outputPath": "C:\\Users\\Mayara Luiza\\Desktop\\ASPNETCOREMVCLojaVirtual\\Seção 02\\PrimeiroProjeto\\ProjetoZero\\ProjetoZero\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mayara Luiza\\AppData\\Roaming\\NuGet\\NuGet.Config",

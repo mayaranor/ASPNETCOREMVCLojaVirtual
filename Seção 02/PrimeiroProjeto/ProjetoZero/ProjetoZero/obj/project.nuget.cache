@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lIKx9UB89jFrPgKeLDtH+VtZ4NKOt0XDMk72qqcOEc7gfm4pIfGyfkagA8ul84V81tK7kGFzd1j36luGPh0LEQ==",
+  "dgSpecHash": "7uMMadLHOblFHoQJBlziVvuThq8OnojKpuliB0q2mBlG2RbPeA11hxtA0dD12Io18iqdHtejkL0m/Y1HDfbpDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mayara Luiza\\Desktop\\PrimeiroProjeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
+  "projectFilePath": "C:\\Users\\Mayara Luiza\\Desktop\\ASPNETCOREMVCLojaVirtual\\Seção 02\\PrimeiroProjeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mayara Luiza\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Mayara Luiza\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
